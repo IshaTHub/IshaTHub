@@ -9,11 +9,11 @@ Passionate about leveraging technical skills and work in a fast-paced, dynamic e
 ## 🔧 Technologies & Tools
 
 - **Languages**: JavaScript (ES6+), TypeScript
-- **Frontend**: React.js, Redux, HTML5, Tailwind, JavaScript (ES6+), Framer motion
+- **Frontend**: React.js, Next.js, Redux, HTML5, Tailwind, JavaScript (ES6+), Framer motion
 - **Backend**:Node.js, Asp.net mvc core
 - **Database**: PostgreSQL, MongoDB, MS SQL
 - **Version Control**: Git
-- 🔧Tools: Git, Postman, Jira, VSCode, VS Studio, MS Server
+- 🔧Tools: Git, Postman, Jira, VSCode, VS Studio, MS Server, Clerk. UploadThings, NeonDB, Stripe
 - **Others**: RESTful APIs, Authentication (JWT, OAuth), Vercel
 
 ---
