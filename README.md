@@ -1,7 +1,7 @@
 
 # Hi there! 👋 I'm Isha Tiwari
 
-Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (SDE)** with **professional experience** specializing in the **React, Node.js, ASP.NET mvc core, PostgreSQl**. 
+Welcome to my GitHub profile! I'm a passionate **Software Development Engineer (SDE)** with **professional experience** specializing in the **React, Next.js, ASP.NET mvc core, PostgreSQl, Node.js**. 
 Passionate about leveraging technical skills and work in a fast-paced, dynamic environment and create innovative, high-quality solutions.
 
 ---
