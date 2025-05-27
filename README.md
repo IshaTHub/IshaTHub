@@ -20,7 +20,7 @@ Passionate about leveraging technical skills and work in a fast-paced, dynamic e
 
 ## 🌱 Currently Learning
 
-- React.js
+- Next.js
 
 ---
 
