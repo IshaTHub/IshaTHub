@@ -13,7 +13,7 @@ Passionate about leveraging technical skills and work in a fast-paced, dynamic e
 - **Backend**:Node.js, Asp.net mvc core
 - **Database**: PostgreSQL, MongoDB, MS SQL
 - **Version Control**: Git
-- **Tools: Git, Postman, Jira, VSCode, VS Studio, MS Server, Clerk. UploadThings, NeonDB, Stripe
+- Tools: Git, Postman, Jira, VSCode, VS Studio, MS Server, Clerk. UploadThings, NeonDB, Stripe
 - **Others**: RESTful APIs, Authentication (JWT, OAuth), Vercel
 
 ---
